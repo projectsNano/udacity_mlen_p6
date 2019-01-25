@@ -10,7 +10,8 @@ The following files are included in the submission:
 5. capstone_data_preparation.html - html version of the above
 6. capstone_main.ipynb -  Jupyter notebook with code for word embeddings and models
 7. capstone_main.html - the above notebook downloaded as html file
-8. Amazon_Unlocked_Mobile.csv - the datset downloaded from Kaggle
+
+The dataset Amazon Reviews: Unlocked Mobile Phones is available from Kaggle:  [link](https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones.).
 
 Software Requirements
 
