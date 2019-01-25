@@ -1,9 +1,7 @@
-## Udacity Machine Learning Engineer
-# Capstone Proposal and Project
 
-This project is part of my Machine Learning Engineer - Udacity Nanodegree Program. In this capstone project I am performing sentiment analysis on Amazon Unlocked Mobile Reviews, which is available on Kaggle datasets. The methods used here involve word embeddings, supervised learning algorithms and deep learning techniques. 
+This project is part of my Machine Learning Engineer - Udacity Nanodegree Program. In this capstone project I am performing sentiment analysis on Amazon Unlocked Mobile Reviews, which is available on Kaggle datasets. The methods used here involve word embeddings, supervised learning alrgorithms and deep learning techniques. 
 
-### The following files are included in the submission:
+The following files are included in the submission:
 
 1. this README.md file
 2. proposal.pdf - the capstone proposal document
@@ -14,7 +12,7 @@ This project is part of my Machine Learning Engineer - Udacity Nanodegree Progra
 7. capstone_main.html - the above notebook downloaded as html file
 8. Amazon_Unlocked_Mobile.csv - the datset downloaded from Kaggle
 
-### Software Requirements
+Software Requirements
 
     Python 3
     Tensorflow 
@@ -23,3 +21,5 @@ This project is part of my Machine Learning Engineer - Udacity Nanodegree Progra
     Matplotlib
     Scikit-learn
     Nltk
+
+
